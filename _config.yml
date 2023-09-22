@@ -23,7 +23,6 @@ navbar-links:
   Home: "/"
   About Me: "aboutme"
   Project Details: "projects"
-  Resume: "resume"
 
 ################
 # --- Logo --- #
