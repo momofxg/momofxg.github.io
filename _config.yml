@@ -20,9 +20,10 @@ author: Momo Feng
 ###############################################
 
 navbar-links:
+  Home: "/"
   About Me: "aboutme"
-  Projects: "projects"
-  Contact: "contact"
+  Project Details: "projects"
+  Resume: "resume"
 
 ################
 # --- Logo --- #
