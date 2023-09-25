@@ -2,7 +2,7 @@
 layout: post
 title: Wang Lab for Biomedicines at Washington University in St. Louis
 subtitle: Data Researcher
-tags: [test]
+tags: [Python, SQL, Data Modeling, SQL Server]
 ---
 In the first semester of my master journey, I worked as a data researcher at Wang Lab for Biomedicines at Washington University in St. Louis.
 
