@@ -16,10 +16,21 @@ cover-img:
 
 <div class="row">
     <div class="col-md-12">
-      <p>Hi, this is Momo Feng. I am a current Master student at WUSTL studying engineering in data analytics and statistics. I graduated from UNC in a Computer Science & Mathematics major. Previously worked as a data engineer intern at Amazon, iQIYI, WUSTL, and AVIC Securities.</p>
+      <p>Hi, this is Momo Feng. </p>
+      <p>I am: </p>
+      <ul>
+          <li>a current Master student at WUSTL studying Engineering in Data analytics and Statistics</li>
+          <li>a graduate from UNC in Computer Science & Mathematics major</li>
+          <li>a previous data engineer intern at Amazon, iQIYI, and AVIC Securities</li>
+          <li>a previous data researcher at WUSTL, and Tsinghua University</li>
+      </ul>
       <p>My resume can be found <a href="assets/XingeFeng_Resume.pdf" target="_blank">here</a>.</p>
     </div>
 </div>
+
+
+
+{% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list" id="experience">
     {% for post in posts %}
@@ -108,7 +119,7 @@ cover-img:
   
      </article>
     {% endfor %}
-    
+
 </div>
 
 <div class="posts-list" id="projects">
