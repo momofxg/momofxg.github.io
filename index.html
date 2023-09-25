@@ -106,12 +106,6 @@ cover-img:
       {% endfor %}
     </div>
     {% endif %}
-
-    <!-- for every post, add buttons for arXiv, bibtex, copy bibtex -->
-    <div class="blog-tags">
-        <a href="{{ post.arxiv }}" target="_blank">arXiv</a>
-        <a href="{{ post.bibtex }}" target="_blank">bibtex</a>
-        <a href="#" onclick="copyToClipboard('{{ post.bibtex }}')">copy bibtex</a>
   
      </article>
     {% endfor %}
