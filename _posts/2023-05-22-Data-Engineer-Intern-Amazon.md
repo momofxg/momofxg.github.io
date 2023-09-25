@@ -23,6 +23,8 @@ I executed more than 100 complex SQL queries utilizing DataGrip. This allowed me
 5. **Kafka Integration**
 I played a crucial role in supporting the integration of data streams using Kafka. This real-time data analysis capability proved invaluable in tracking associates' attrition in line with stakeholder objectives. Additionally, I provided vital assistance to the project manager, resulting in an astounding daily time savings of 380 hours for our North American Amazon factory workers.
 
+![amazon](/assets/img/personal_amazon.JPG){: .mx-auto.d-block :}
+
 
 
 
