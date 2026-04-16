@@ -10,7 +10,15 @@
 ############################
 
 # Name of website
-title: momofeng.github.io
+title: Momo Feng
+
+# Canonical site URL for SEO and sitemap generation
+url: "https://momofxg.github.io"
+baseurl: ""
+
+# Search-friendly summary used by the theme and search engines
+description: "Momo Feng's personal website, portfolio, and resume."
+keywords: "Momo Feng, data engineer, data analytics, statistics, portfolio"
 
 # Your name to show in the footer
 author: Momo Feng
